@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Business",
+      "Project Management"
+    ]
+  ],
+  "legacy_uid": "c452d9d6-da80-9e47-358c-706f3432b8fb",
+  "instructors": {
+    "content": [
+      "1273476c-a3f6-e250-0a53-2d91aea619fd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "027a436e-6719-efe7-cc2b-0edac9a3a52b",
+    "website": "res-str-002-data-management-spring-2016"
+  },
+  "course_title": "Data Management",
+  "hide_download": false,
+  "course_description": "The MIT Libraries Data Management Group hosts a set of workshops during IAP ![](/images/educator/icon-question-iap.png) and throughout the year to assist MIT faculty and researchers with data set control, maintenance, and sharing. This resource contains a selection of presentations from those workshops. Topics include an introduction to data management, details on data sharing and storage, data management using the [DMPTool](http://blog.dmptool.org/about-the-dmptool/), file organization, version control, and an overview of the open data requirements of various funding sources.\n",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.STR-002",
+  "course_image_thumbnail": {
+    "content": "715f9663-038c-ffee-a31a-7dc58ffbda75",
+    "website": "res-str-002-data-management-spring-2016"
+  },
+  "learning_resource_types": [],
+  "site_uid": "e3cd09b7-6b54-49ef-88a0-761e1626cbc4",
+  "site_short_id": "res.str-002-spring-2016",
+  "site_url_path": "courses/res-str-002-data-management-spring-2016",
+  "title": "Course Metadata"
+}
