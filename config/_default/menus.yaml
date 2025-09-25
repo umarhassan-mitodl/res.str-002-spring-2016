@@ -1,0 +1,5 @@
+leftnav:
+- identifier: b416d225-638e-b1d3-31b0-6e68df2d3977
+  name: Workshop Materials
+  pageRef: /pages/workshop-materials
+  weight: 10
